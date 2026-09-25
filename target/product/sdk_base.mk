@@ -21,7 +21,6 @@ PRODUCT_PACKAGES := \
 	CubeLiveWallpapers \
 	CustomLocale \
 	Development \
-	Launcher3QuickStep \
 	Camera2 \
 	librs_jni \
 	Mms \
