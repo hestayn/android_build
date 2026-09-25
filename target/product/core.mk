@@ -29,8 +29,6 @@ PRODUCT_PACKAGES += \
     CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
-    DocumentsUI \
-    DownloadProviderUi \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
@@ -48,7 +46,6 @@ PRODUCT_PACKAGES += \
     Settings \
     SettingsIntelligence \
     SharedStorageBackup \
-    SimAppDialog \
     StorageManager \
     Telecom \
     TeleService \
