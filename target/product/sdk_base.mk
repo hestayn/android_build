@@ -21,12 +21,9 @@ PRODUCT_PACKAGES := \
 	CubeLiveWallpapers \
 	CustomLocale \
 	Development \
-	Dialer \
-	Gallery2 \
 	Launcher3QuickStep \
 	Camera2 \
 	librs_jni \
-	LiveWallpapersPicker \
 	Mms \
 	Music \
 	Protips \

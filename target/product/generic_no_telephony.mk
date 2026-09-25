@@ -21,9 +21,7 @@ PRODUCT_PACKAGES := \
     Bluetooth \
     BluetoothMidiService \
     Camera2 \
-    Gallery2 \
     Music \
-    MusicFX \
     OneTimeInitializer \
     Provision \
     SystemUI \
@@ -32,7 +30,6 @@ PRODUCT_PACKAGES := \
     DisplayCutoutEmulationCornerOverlay \
     DisplayCutoutEmulationTallOverlay \
     EasterEgg \
-    WallpaperCropper
 
 PRODUCT_PACKAGES += \
     clatd \
