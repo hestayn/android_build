@@ -31,7 +31,6 @@ PRODUCT_PACKAGES := \
 	SdkSetup \
 	SoftKeyboard \
 	sqlite3 \
-	SystemUI \
 	SysuiDarkThemeOverlay \
 	EasterEgg \
 	WallpaperPicker \

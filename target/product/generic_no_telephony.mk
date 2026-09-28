@@ -24,7 +24,6 @@ PRODUCT_PACKAGES := \
     Music \
     OneTimeInitializer \
     Provision \
-    SystemUI \
     SysuiDarkThemeOverlay \
     DisplayCutoutEmulationDoubleOverlay \
     DisplayCutoutEmulationCornerOverlay \
