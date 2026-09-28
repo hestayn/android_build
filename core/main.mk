@@ -285,6 +285,7 @@ ifneq (,$(user_variant))
   endif
 
   ifeq ($(user_variant),userdebug)
+    ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=0
     # Pick up some extra useful tools
     tags_to_install += debug
   else
