@@ -35,8 +35,6 @@ PRODUCT_PACKAGES += \
     libpac \
     ProxyHandler \
     SecureElement \
-    Settings \
-    SettingsIntelligence \
     SharedStorageBackup \
     StorageManager \
     Telecom \
